@@ -1,2 +1,6 @@
 # House_Price_Prediction
-This is a practice example for using tensorflow with using data set from Kaggle 
+This repositoriy is a practice example in order to use tensorflow libary.
+I used a publicly shared data set from Kaggle for this working. 
+You can find this data set via this link: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+
